@@ -1,0 +1,14 @@
+.BodyC{
+ /* background-color: blue; */
+ display: flex;
+ align-content: center;
+ justify-content: center;
+ flex-direction: column;
+ margin-right: 20%;
+ margin-left: 20%;
+ padding-top: 5%;
+ /* background-image: url('https://www.nasa.gov/sites/default/files/14206376348_fca4af4ba5_o.jpg');
+ background-size: cover; */
+ 
+}
+

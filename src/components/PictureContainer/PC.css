@@ -1,0 +1,22 @@
+.imageDiv{
+    display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-direction: column;
+ 
+
+}
+
+
+.renderedImage{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 5%;
+   
+
+
+}

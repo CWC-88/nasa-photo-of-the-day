@@ -1,0 +1,27 @@
+.renderedImageDetailTITLE{
+    color: pink;
+font-weight: bolder;
+font-size: x-large;
+display: flex;
+ align-content: center;
+ justify-content: center;
+ flex-direction: column;
+}
+.renderedImageDetailDATE{
+    color: white;
+    font-weight: bolder;
+    font-size: x-large;
+    display: flex;
+     align-content: center;
+     justify-content: center;
+     flex-direction: column;
+}
+.renderedImageDetailEXP{
+    color: lightskyblue;
+    font-weight: bolder;
+    font-size: x-large;
+    display: flex;
+     align-content: center;
+     justify-content: center;
+     flex-direction: column;
+}

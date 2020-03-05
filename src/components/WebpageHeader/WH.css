@@ -1,0 +1,9 @@
+.HeaderActial{
+    
+    color: yellow;
+    font-weight: bolder;
+    font-size: 300%;
+    display: flex;
+     align-content: center;
+     justify-content: center;
+     flex-direction: column;}
